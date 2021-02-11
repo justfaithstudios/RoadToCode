@@ -1,1 +1,1 @@
-# A blog website I helped to create so I can teach other more beginner programmers version control
+# A front end website I helped to create so I can teach other more beginner programmers version control have a place where free doing resources can be found that was made by students and developers for students and developers
